@@ -1,160 +1,230 @@
 # Hi, I'm Manas Kirve 👋
 
-### AI & Full Stack Developer | Software Engineer
+### AI Engineer · Full-Stack Developer · Software Engineer
 
-I build production-ready web applications, AI-powered systems, and scalable software products.
+I build **production AI systems, LLM-powered applications, and full-stack SaaS products** from architecture to deployment.
 
-My work focuses on Artificial Intelligence, Full Stack Development, Backend Engineering, API Development, and modern web technologies, with an emphasis on building real-world products from idea to production.
+Currently focused on **Generative AI, Agentic AI, LLM applications, backend engineering, and scalable web systems**.
 
----
-
-## 🚀 About Me
-
-I'm a software developer focused on building practical, production-ready applications and AI-powered solutions.
-
-My experience spans:
-
-- Artificial Intelligence & AI-powered applications
-- Full Stack Web Development
-- Backend Development & REST APIs
-- Frontend Engineering
-- Database Design & Integration
-- AI and LLM API Integration
-- Cloud and Web Infrastructure
-- Product Development and Deployment
-
-I enjoy turning complex ideas into reliable, user-focused software.
+```text
+AI Systems → Backend → Full Stack → Cloud → Production
+```
 
 ---
 
-## 🧠 Technical Skills
+## 🚀 What I Build
 
-### Programming Languages
+I specialize in turning ideas into production software — from designing backend architecture and AI workflows to building the frontend, integrating APIs, deploying infrastructure, and monitoring real-world systems.
 
-`Python` `Java` `JavaScript` `SQL`
+My engineering experience includes:
 
-### Frontend Development
-
-`React` `Angular` `HTML` `CSS` `Tailwind CSS` `Bootstrap`
-
-### Backend Development
-
-`Node.js` `Express.js` `REST APIs`
-
-### Databases
-
-`MongoDB` `MySQL` `Firebase`
-
-### Artificial Intelligence
-
-`AI Applications` `LLM Integration` `AI APIs` `Prompt Engineering` `Generative AI`
-
-### Tools & Platforms
-
-`Git` `GitHub` `Firebase` `Netlify` `REST APIs`
+* 🤖 **Generative AI & LLM Applications**
+* 🧠 **Agentic AI & Multi-Agent Systems**
+* 🔎 **RAG, Vector Search & Semantic Retrieval**
+* 👁️ **Computer Vision & AI-powered Analysis**
+* ⚙️ **Backend Engineering & REST APIs**
+* 🌐 **Full-Stack SaaS Applications**
+* 🏗️ **0 → 1 Product Development**
+* ☁️ **Cloud Infrastructure & Deployment**
+* 🐳 **Docker & CI/CD**
+* 🗄️ **SQL & NoSQL Database Systems**
 
 ---
 
-# 🏗️ Production Experience
+## 💼 Production Experience
 
-## 🧬 Biomarks.ai
+### AI Engineer & Full-Stack Developer — APT Strategies Inc
 
-**AI-powered production platform**
+**Remote · Australia | Jan 2025 – Present**
 
-Built and developed a real-world production application focused on delivering an AI-driven digital experience.
+Working as one of the engineers on a small founding team, building and shipping production AI systems and full-stack products.
 
-**Status:** Live in production  
-**Source Code:** Private Repository
+### 🧬 Biomarks.ai
 
-🌐 https://biomarks.ai/
+**AI-powered health analytics platform**
+
+* Helped take the platform from **0 → production**
+* Built **9 AI-powered wellness assessment models**
+* Developed a production **multi-agent LLM pipeline** using OpenAI and Anthropic APIs
+* Built automation for analyzing employee data and generating personalized reports
+* Worked across backend engineering, AI systems, infrastructure, and production reliability
+* Helped the platform reach **600 user signups in its first week**
 
 ---
+
+# 🏗️ Featured Projects
 
 ## ⚡ Host-Better
 
-**Web Hosting & Infrastructure Platform**
+### Web Hosting & Deployment SaaS
 
-Built and developed a commercial web platform focused on web hosting, deployment, infrastructure, and website management.
+**Next.js · Cloudflare · Supabase · Razorpay · Docker**
 
-**Status:** Live in production  
-**Source Code:** Private Repository
+A full-stack hosting platform built around automated website deployment, infrastructure management, custom domains, SSL, and billing.
+
+**Highlights**
+
+* Built a custom build-and-deploy pipeline to Cloudflare
+* Implemented automated SSL and custom domain infrastructure
+* Built Supabase backend with Row Level Security
+* Integrated Razorpay billing
+* Built multi-TLD domain purchasing
+* Reached **15 signed-up users and 3 paying customers within 2 weeks**
+* Marketing site reached **4.4K+ active users**
 
 🌐 https://host-better.com/
 
 ---
 
-## 🚀 ReduCarb
+## 🎯 MatchBoard
 
-**Production Web Application**
+### AI Resume-to-Job Matching SaaS
 
-Developed and deployed a real-world web application as part of my production software development work.
+**Next.js 14 · TypeScript · Groq · Llama 3 70B · Supabase · Razorpay**
 
-**Status:** Live  
-**Source Code:** Private Repository
+An AI-powered job matching platform that analyzes job listings against resumes and generates a **0–100 compatibility score with AI explanations**.
+
+Built with a multi-tenant PostgreSQL architecture and freemium billing model.
+
+---
+
+## 🧠 DocMind
+
+### RAG Document Intelligence System
+
+**LangChain · Groq · Llama 3 · Mixtral · Hugging Face**
+
+A Retrieval-Augmented Generation system for document question answering.
+
+Features include:
+
+* Document chunking
+* Vector embeddings
+* Semantic retrieval
+* History-aware conversations
+* Multi-turn Q&A
+* Source-chunk attribution
+
+---
+
+## 💊 ReduCarb
+
+### Full-Stack Pharmaceutical E-Commerce Platform
+
+**React · Python · FastAPI · MySQL · REST APIs**
+
+Built the application end-to-end, including:
+
+* Product APIs
+* Authentication
+* Order management
+* Admin controls
+* Database integration
+* Production deployment
 
 🌐 https://reducarb.in/
 
-> Commercial source code is kept private to protect intellectual property and production infrastructure.
+---
+
+# 🧠 AI Engineering
+
+I'm particularly interested in building AI systems that move beyond simple API calls.
+
+### Current areas
+
+**LLM Applications**
+
+OpenAI · Anthropic · Groq · Llama · Prompt Engineering
+
+**Agentic AI**
+
+Multi-Agent Workflows · Tool Calling · Autonomous Pipelines
+
+**Retrieval Systems**
+
+RAG · Embeddings · Semantic Search · Vector Retrieval
+
+**Computer Vision**
+
+AI-powered Image Analysis · Vision Models · Automated Insights
+
+**AI Infrastructure**
+
+API Integration · Reliability · Retry Strategies · Production AI
 
 ---
 
-# 💻 Featured Engineering Projects
+# ⚙️ Tech Stack
 
-I also build public projects to explore software engineering, artificial intelligence, backend systems, APIs, and modern web technologies.
+### Languages
 
-### 🤖 AI Engineering
+`Python` `TypeScript` `JavaScript` `PHP` `SQL`
 
-Building applications using AI APIs, LLMs, automation, and intelligent data processing.
+### AI / ML
 
-### ⚙️ Backend Engineering
+`OpenAI` `Anthropic` `Groq` `LangChain` `Hugging Face` `RAG` `LLMs` `Computer Vision`
 
-Building REST APIs, authentication systems, database-driven applications, and backend services.
+### Frontend
 
-### 🌐 Full Stack Development
+`React` `Next.js` `HTML` `CSS` `Tailwind CSS`
 
-Building complete web applications across frontend, backend, databases, APIs, and deployment.
+### Backend
 
----
+`FastAPI` `Node.js` `REST APIs`
 
-# 🎯 Areas of Interest
+### Databases
 
-- Artificial Intelligence
-- Generative AI
-- AI Engineering
-- Machine Learning
-- LLM Applications
-- Full Stack Development
-- Backend Engineering
-- Software Engineering
-- System Design
-- REST API Development
-- Cloud Computing
-- Web Infrastructure
-- Scalable Applications
+`PostgreSQL` `MySQL` `MongoDB` `Supabase` `Firebase`
+
+### Cloud & Infrastructure
+
+`Cloudflare` `Vercel` `Render` `Microsoft Azure` `Docker`
+
+### Engineering
+
+`Git` `GitHub` `CI/CD` `System Design` `API Architecture`
 
 ---
 
-# 📚 Currently Learning
+# 📈 Engineering Focus
 
-- Advanced AI Engineering
-- Large Language Model Applications
-- Retrieval-Augmented Generation
-- Backend Architecture
-- System Design
-- Scalable Software Architecture
+I'm currently going deeper into:
+
+* Advanced AI Engineering
+* Agentic AI architectures
+* Large Language Model applications
+* Retrieval-Augmented Generation
+* Backend architecture
+* Distributed systems
+* System design
+* Scalable SaaS architecture
+* Production AI reliability
+
+---
+
+# 🎓 Education
+
+**B.Sc. Computer Science**
+Savitribai Phule Pune University · 2023 – 2026
+
+**CGPA:** 7.9 / 10
 
 ---
 
 # 🤝 Let's Connect
 
-🌐 Portfolio: https://manas-kirve-portfolio.framer.website/
+🌐 **Portfolio**
+https://manas-kirve-portfolio.framer.website/
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+💼 **LinkedIn**
+https://linkedin.com/in/manas-kirve-aa97432a5
 
-🚀 Host-Better: https://host-better.com/
+🚀 **Host-Better**
+https://host-better.com/
 
-🧬 Biomarks: https://biomarks.ai/
+🧬 **Biomarks.ai**
+https://biomarks.ai/
 
 ---
 
-### Building software. Shipping products. Learning continuously.
+### Building AI systems. Shipping products. Learning continuously.
