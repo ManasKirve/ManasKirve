@@ -1,6 +1,12 @@
+<div align="center">
+
 # Hi, I'm Manas Kirve 👋
 
 ### AI Engineer · Full-Stack Developer · Software Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+Production+AI+Systems;Building+Full-Stack+SaaS+Products;AI+Engineering+%7C+Backend+%7C+Cloud;Turning+Ideas+Into+Production+Software" alt="Typing animation" />
+
+</div>
 
 I build **production AI systems, LLM-powered applications, and full-stack SaaS products** from architecture to deployment.
 
@@ -50,9 +56,23 @@ Working as one of the engineers on a small founding team, building and shipping 
 * Worked across backend engineering, AI systems, infrastructure, and production reliability
 * Helped the platform reach **600 user signups in its first week**
 
+🌐 **Live:** https://biomarks.ai/
+
 ---
 
 # 🏗️ Featured Projects
+
+## 🧬 Biomarks.ai
+
+### AI-Powered Health Analytics Platform
+
+**AI · Computer Vision · LLMs · Python · APIs**
+
+A production AI platform focused on AI-powered wellness analysis and personalized digital insights.
+
+🌐 **Live:** https://biomarks.ai/
+
+---
 
 ## ⚡ Host-Better
 
@@ -72,7 +92,26 @@ A full-stack hosting platform built around automated website deployment, infrast
 * Reached **15 signed-up users and 3 paying customers within 2 weeks**
 * Marketing site reached **4.4K+ active users**
 
-🌐 https://host-better.com/
+🌐 **Live:** https://host-better.com/
+
+---
+
+## 💊 ReduCarb
+
+### Full-Stack Pharmaceutical E-Commerce Platform
+
+**React · Python · FastAPI · MySQL · REST APIs**
+
+Built the application end-to-end, including:
+
+* Product APIs
+* Authentication
+* Order management
+* Admin controls
+* Database integration
+* Production deployment
+
+🌐 **Live:** https://reducarb.in/
 
 ---
 
@@ -104,25 +143,6 @@ Features include:
 * History-aware conversations
 * Multi-turn Q&A
 * Source-chunk attribution
-
----
-
-## 💊 ReduCarb
-
-### Full-Stack Pharmaceutical E-Commerce Platform
-
-**React · Python · FastAPI · MySQL · REST APIs**
-
-Built the application end-to-end, including:
-
-* Product APIs
-* Authentication
-* Order management
-* Admin controls
-* Database integration
-* Production deployment
-
-🌐 https://reducarb.in/
 
 ---
 
@@ -227,4 +247,10 @@ https://biomarks.ai/
 
 ---
 
+<div align="center">
+
 ### Building AI systems. Shipping products. Learning continuously.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
+
+</div>
